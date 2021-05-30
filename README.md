@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Get 1 Certification Completed and Get Driving License 😄
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek. And a Casual gamer too 😎
 
+### Languages and Tools:
+
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 
 ### Connect with me:
 
