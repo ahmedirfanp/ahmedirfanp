@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Informatica" width="26px" src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/05/informatica-powercenter-logo.png?resize=150%2C150&ssl=1" />
 <img align="left" alt="ShellScript" width="26px" src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal_application-512.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://www.pngjoy.com/pngl/142/2853977_primerica-logo-tableau-software-hd-png-download.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />
 
 <br />
 <br />
