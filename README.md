@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a software Engineer responsible for Data Integration. My current Employer is [Buck][Employer_Current], a century old Human Resource and [Actuarial][Actuary] firm.
 - 🌱 I’m currently taking baby steps towards becoming a Data Wizard( a term I come up with indicates one who specializes in Data Analysis, Data Engineering and Data Science)
 - 🥅 2020 Goals: Get 1 Certification Completed and Get Driving License 😄
-- ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek and a gamer too!
+- ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek. An a Casual gamer too 😎
 
 
 ### Connect with me:
