@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a software Engineer responsible for Data Integration. My Employer is Buck a century old Human Resource and Actuarial firm.
+- 🔭 I’m currently working as a software Engineer responsible for Data Integration. My Current Employer is Buck a century old Human Resource and Actuarial firm.
 - 🌱 I’m currently taking baby steps towards becoming a Data Wizard( a term I come up with indicates one who specializes in Data Analysis, Data Engineering and Data Science)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a software Engineer responsible for Data Integration. My Employer is Buck a century old Human Resource and Actuarial firm.
+- 🔭 I’m currently working as a software Engineer responsible for Data Integration. My Employer is [Buck][Employer_Current] a century old Human Resource and Actuarial firm.
 - 🌱 I’m currently taking baby steps towards becoming a Data Wizard( a term I come up with indicates one who specializes in Data Analysis, Data Engineering and Data Science)
+[Employer_Current]:https://buck.com/ca/
