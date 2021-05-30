@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Get 1 Certification Completed and Get the Driving License 😄.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek. And a Casual gamer too 😎.
 
+### Reading now 📖 [Man's Search For Meaning][Current_Book]
+
 ### Languages and Tools:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -53,3 +55,4 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/ahmedirfanp/
 [Fav_Song]:https://www.youtube.com/watch?v=we-LaiQNY5s
 [ETL]:https://en.wikipedia.org/wiki/Extract,_transform,_load
+[Current_book]:https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning
