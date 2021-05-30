@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="ahmedirfanp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ahmedirfanp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ahmedirfanp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ahmedirfanp | GoodReads" width="22px" src="https://cdn1.iconfinder.com/data/icons/black-socicons/512/goodreads-512.png" />][GoodReads]
+[<img align="left" alt="ahmedirfanp | GoodReads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/goodreads.svg" />][GoodReads]
 
 [Employer_Current]:https://buck.com/ca/
 [Actuary]:https://en.wikipedia.org/wiki/Actuarial_science#:~:text=Actuarial%20science%20is%20the%20discipline,professionals%20trained%20in%20this%20discipline.
