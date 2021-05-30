@@ -44,15 +44,17 @@ Here are some ideas to get you started:
 <br />
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ahmedirfanp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ahmedirfanp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ahmedirfanp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ahmedirfanp | GoodReads" width="22px" src="https://cdn1.iconfinder.com/data/icons/black-socicons/512/goodreads-512.png" />][GoodReads]
 
 [Employer_Current]:https://buck.com/ca/
 [Actuary]:https://en.wikipedia.org/wiki/Actuarial_science#:~:text=Actuarial%20science%20is%20the%20discipline,professionals%20trained%20in%20this%20discipline.
 [twitter]: https://twitter.com/ahmedirfanp
 [instagram]: https://instagram.com/ahmedirfan.p/
 [linkedin]: https://linkedin.com/in/ahmedirfanp/
+[GoodReads]: https://www.goodreads.com/user/show/5864857-ahmed-irfan-peermohamed
 [Fav_Song]:https://www.youtube.com/watch?v=we-LaiQNY5s
 [ETL]:https://en.wikipedia.org/wiki/Extract,_transform,_load
 [Current_book]:https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning
