@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 <br />
 
 ### Currently Learning:
-<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="Azure" width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
-<img align="left" alt="Java" width="32px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" />
-<img align="left" alt="AWS" width="32px" src="https://www.infoblox.com/wp-content/uploads/nios-aws-icon-v2.png" />
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<span title="Python"><img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" /></span>
+<span title="Azure"><img align="left" alt="Azure" width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png" /></span>
+<span title="Java"><img align="left" alt="Java" width="32px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" /></span>
+<span title="AWS"><img align="left" alt="AWS" width="32px" src="https://www.infoblox.com/wp-content/uploads/nios-aws-icon-v2.png" /></span>
+<span title="MongoDB"><img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></span>
 <br />
 <br />
 
