@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a software Engineer responsible for Data Integration. My current Employer is [Buck][Employer_Current] a century old Human Resource and Actuarial firm.
+- 🔭 I’m currently working as a software Engineer responsible for Data Integration. My current Employer is [Buck][Employer_Current], a century old Human Resource and [Actuarial][Actuary] firm.
 - 🌱 I’m currently taking baby steps towards becoming a Data Wizard( a term I come up with indicates one who specializes in Data Analysis, Data Engineering and Data Science)
 - 🥅 2020 Goals: Get 1 Certification Completed and Get Driving License 😄
 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [Employer_Current]:https://buck.com/ca/
+[Actuary]:https://en.wikipedia.org/wiki/Actuarial_science#:~:text=Actuarial%20science%20is%20the%20discipline,professionals%20trained%20in%20this%20discipline.
 [twitter]: https://twitter.com/ahmedirfanp
 [instagram]: https://instagram.com/ahmedirfan.p/
 [linkedin]: https://linkedin.com/in/ahmedirfanp/
