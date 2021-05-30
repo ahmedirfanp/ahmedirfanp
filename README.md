@@ -22,24 +22,24 @@ Here are some ideas to get you started:
 ### Reading now 📖 [Man's Search For Meaning][Current_Book]
 
 ### Languages and Tools:
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Pentaho" width="26px" src="https://dataengineerings.com/wp-content/uploads/2021/02/pentaho-logo-1.png?w=150" />
-<img align="left" alt="Informatica" width="26px" src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/05/informatica-powercenter-logo.png?resize=150%2C150&ssl=1" />
-<img align="left" alt="ShellScript" width="26px" src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal_application-512.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" width="26px" src="https://www.pngjoy.com/pngl/142/2853977_primerica-logo-tableau-software-hd-png-download.png" />
-<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />
+<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Pentaho" width="32px" src="https://dataengineerings.com/wp-content/uploads/2021/02/pentaho-logo-1.png?w=150" />
+<img align="left" alt="Informatica" width="32px" src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/05/informatica-powercenter-logo.png?resize=150%2C150&ssl=1" />
+<img align="left" alt="ShellScript" width="32px" src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal_application-512.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="32px" src="https://www.pngjoy.com/pngl/142/2853977_primerica-logo-tableau-software-hd-png-download.png" />
+<img align="left" alt="Git" width="32px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />
 
 <br />
 <br />
 
 ### Currently Learning:
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" />
-<img align="left" alt="AWS" width="26px" src="https://www.infoblox.com/wp-content/uploads/nios-aws-icon-v2.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="Azure" width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
+<img align="left" alt="Java" width="32px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" />
+<img align="left" alt="AWS" width="32px" src="https://www.infoblox.com/wp-content/uploads/nios-aws-icon-v2.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br />
 <br />
 
