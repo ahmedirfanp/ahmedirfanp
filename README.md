@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently taking baby steps towards becoming a Data Wizard( a term I come up with indicates one who specializes in Data Analysis, Data Engineering and Data Science)
 - 🥅 2020 Goals: Get 1 Certification Completed and Get Driving License 😄
 
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
