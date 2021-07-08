@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <span title="Tableau">
   <img align="left" alt="tableau" width="32px" src="https://www.pngjoy.com/pngl/142/2853977_primerica-logo-tableau-software-hd-png-download.png" /></span>
 <span title="MSOffice">
-  <img align="left" alt="MSOffice" width="32px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" /></span>
+  <img align="left" alt="MSOffice" width="32px" src="https://icon-library.com/images/microsoft-office-icon-png/microsoft-office-icon-png-12.jpg" /></span>
 <br />
 <br />
 
