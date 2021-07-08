@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ### Currently Learning:
 <span title="Azure"><img align="left" alt="Azure" width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png" /></span>
 <span title="AWS"><img align="left" alt="AWS" width="36px" src="https://www.austenmyers.com/wp-content/uploads/2020/01/aws_img-1870x1403.png" /></span>
-<span title="AWS"><img align="left" alt="GCP" width="36px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAyLZUnh6gTKenxkEhQyIJtk8rBN6srw7-_df744omM1GNx4i_QoEL_F9-faVbknNk28&usqp=CAU" /></span>
+<span title="AWS"><img align="left" alt="GCP" width="36px" src="https://www.pngitem.com/pimgs/m/129-1299591_google-cloud-platform-icon-hd-png-download.png" /></span>
 <br />
 <br />
 
