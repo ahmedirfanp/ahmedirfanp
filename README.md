@@ -43,12 +43,12 @@ Here are some ideas to get you started:
   <img align="left" alt="tableau" width="32px" src="https://www.pngjoy.com/pngl/142/2853977_primerica-logo-tableau-software-hd-png-download.png" /></span>
 <span title="MSOffice">
   <img align="left" alt="MSOffice" width="32px" src="https://icon-library.com/images/microsoft-office-icon-png/microsoft-office-icon-png-12.jpg" /></span>
+ <span title="Alteryx">
+  <img align="left" alt="Alteryx" width="26px" src="https://w7.pngwing.com/pngs/194/912/png-transparent-tableau-software-computer-icons-alteryx-over-and-over-again-blue-angle-text-thumbnail.png" /></span>
 <br />
 <br />
 
 ### Languages and Tools with Basic Knowledge:
-<span title="Alteryx">
-  <img align="left" alt="Alteryx" width="26px" src="https://w7.pngwing.com/pngs/194/912/png-transparent-tableau-software-computer-icons-alteryx-over-and-over-again-blue-angle-text-thumbnail.png" /></span>
 <span title="Python"><img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" /></span>
 <span title="Java"><img align="left" alt="Java" width="32px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" /></span>
 <span title="MongoDB"><img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></span>
@@ -57,8 +57,9 @@ Here are some ideas to get you started:
 
 ### Currently Learning:
 <span title="Azure"><img align="left" alt="Azure" width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png" /></span>
-<span title="AWS"><img align="left" alt="AWS" width="36px" src="https://www.austenmyers.com/wp-content/uploads/2020/01/aws_img-1870x1403.png" /></span>
 <span title="GCP"><img align="left" alt="GCP" width="36px" src="https://cloudacademy.com/wp-content/uploads/2014/04/icon_cloud_192pt_clr.png" /></span>
+<span title="SPARK"><img align="left" alt="SPARK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
+<span title="PRESTO"><img align="left" alt="PRESTO" width="36px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mrkiqqv6u0a5qgxqfwjw" /></span>
 <br />
 <br />
 
