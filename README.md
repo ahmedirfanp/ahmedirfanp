@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals:
   - Get certification on one tool.
   - Get the G2 Driving License 😄.
-- ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek And a Casual gamer too 😎.
+- ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
 ### Reading now 📖 [Predictably irrational : the hidden forces that shape our decisions][Current_Book]
 
