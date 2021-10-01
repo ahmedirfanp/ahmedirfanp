@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="left" alt="PLSQL" width="32px" src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png" /></span>
 <span title="PentahoDataIntegration"><img align="left" alt="Pentaho" width="32px" src="https://dataengineerings.com/wp-content/uploads/2021/02/pentaho-logo-1.png?w=150" /></span>
 <span title="Informatica">
-  <img align="left" alt="Informatica" width="32px" src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/05/informatica-powercenter-logo.png?resize=150%2C150&ssl=1" /></span>
+  <img align="left" alt="Informatica" width="32px" src="https://defkey.com/content/images/program/informatica-powercenter-10-5-workflow-2021-04-07_08-36-25-icon-resized.png" /></span>
 <span title="ShellScript">
   <img align="left" alt="ShellScript" width="32px" src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal_application-512.png" /></Span>
 <span title="Git">
