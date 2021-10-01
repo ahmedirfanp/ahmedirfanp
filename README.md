@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Get the G2 Driving License 😄.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek And a Casual gamer too 😎.
 
-### Reading now 📖 [BRING THE NOISE][Current_Book]
+### Reading now 📖 [Predictably irrational : the hidden forces that shape our decisions][Current_Book]
 
 ### Languages and Tools with Good Experience:
 <span title="SQL">
@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 [TableauPublic]: https://public.tableau.com/profile/ahmed.irfan.peermohamed#!/
 [Fav_Song]:https://www.youtube.com/watch?v=we-LaiQNY5s
 [ETL]:https://en.wikipedia.org/wiki/Extract,_transform,_load
-[Current_book]:https://www.goodreads.com/book/show/34220629-bring-the-noise?from_search=true&from_srp=true&qid=rkbktbAzHn&rank=1
+[Current_book]:https://www.goodreads.com/book/show/1713426.Predictably_Irrational
