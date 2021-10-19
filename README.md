@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Get the G2 Driving License 😄.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
-### Reading now 📖[Current_Book]
+### Reading now 📖
 
 ### Languages and Tools with Good Experience:
 <span title="SQL">
