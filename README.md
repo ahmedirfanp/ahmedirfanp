@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a software Engineer responsible for Data Integration. My Current Employer is Buck a century old Human Resource and Actuarial firm.
-- 🌱 I’m currently taking baby steps towards becoming a Data Engineer
+- 🌱 Slowly transitioning my career to Data Engineer.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as a software Engineer responsible for Data Integration. My current Employer is [Buck][Employer_Current], a century old Human Resource and [Actuarial][Actuary] firm.
-- 🌱 I’m currently taking baby steps towards becoming a Data Engineer.
+- 🌱 Slowly transitioning my career to Data Engineering.
 - 💬 Ask me about anything [ETL][ETL] related.
 - 🥅 2021 Goals:
   - Get certification on one tool.
