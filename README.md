@@ -21,7 +21,14 @@ Here are some ideas to get you started:
   - Get the G2 Driving License 😄.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
-### Reading now 📖: Predictably Irrational [Current_Book]
+### Reading now 📖: [Predictably Irrational][Current_Book]
+<br />
+### Certified in:
+[<span title="DesignerCore">
+  <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://community.alteryx.com/html/@0DB7D8153CBCA00BBD4D8EF07C83900C/badge_icons/Certification_DesignerCore.png" /></span>][Alteryx_Community_Profile]
+<br />
+<br />
+
 
 ### Languages and Tools with Good Experience:
 <span title="SQL">
@@ -75,6 +82,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/ahmedirfanp
 [instagram]: https://instagram.com/ahmedirfan.p/
 [linkedin]: https://linkedin.com/in/ahmedirfanp/
+[Alteryx_Community_Profile]:https://community.alteryx.com/t5/user/viewprofilepage/user-id/164099
 [GoodReads]: https://www.goodreads.com/user/show/5864857-ahmed-irfan-peermohamed
 [TableauPublic]: https://public.tableau.com/profile/ahmed.irfan.peermohamed#!/
 [Fav_Song]:https://www.youtube.com/watch?v=we-LaiQNY5s
