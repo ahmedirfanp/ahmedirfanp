@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 Slowly transitioning my career to Data Engineering.
 - 💬 Ask me about anything [ETL][ETL] related.
 - 🥅 2021 Goals:
-  - Get certification on one tool.
+  - Get certification on one tool - Complete (Completed Alteryx Designer Core).
   - Get the G2 Driving License 😄.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
