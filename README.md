@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 Slowly transitioning my career to Data Engineering.
 - 💬 Ask me about anything [ETL][ETL] related.
 - 🥅 2021 Goals:
-  - Get certification on one tool - Complete (Completed Alteryx Designer Core).
+  - Get certification on one tool - Completed (Alteryx Designer Core Certified).
   - Get the G2 Driving License 😄.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
@@ -63,8 +63,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Currently Learning:
-<span title="Azure"><img align="left" alt="Azure" width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png" /></span>
-<span title="GCP"><img align="left" alt="GCP" width="36px" src="https://cloudacademy.com/wp-content/uploads/2014/04/icon_cloud_192pt_clr.png" /></span>
+<span title="Airflow"><img align="left" alt="Airflow" width="36px" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" /></span>
 <span title="SPARK"><img align="left" alt="SPARK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
 <span title="PRESTO"><img align="left" alt="PRESTO" width="36px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mrkiqqv6u0a5qgxqfwjw" /></span>
 <br />
