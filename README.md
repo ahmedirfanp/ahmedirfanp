@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
 ### Reading now 📖: [Predictably Irrational][Current_Book]
-<br />
+
 ### Certified in:
 [<span title="DesignerCore">
   <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://community.alteryx.com/html/@0DB7D8153CBCA00BBD4D8EF07C83900C/badge_icons/Certification_DesignerCore.png" /></span>][Alteryx_Community_Profile]
