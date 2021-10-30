@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Certified in:
 [<span title="DesignerCore">
-  <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://community.alteryx.com/html/@0DB7D8153CBCA00BBD4D8EF07C83900C/badge_icons/Certification_DesignerCore.png" /></span>][Alteryx_Community_Profile]
+  <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://images.credly.com/size/110x110/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" /></span>][Alteryx_Community_Profile]
 <br />
 <br />
 
