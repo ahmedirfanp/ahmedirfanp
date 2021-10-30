@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Certified in:
 [<span title="DesignerCore">
-  <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://www.credly.com/badges/a4b3e002-b63a-480b-b8cd-67acf67b2afd/public_url" /></span>][Alteryx_Community_Profile]
+  <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://images.credly.com/size/110x110/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" /></span>][Alteryx_Community_Profile]
 <br />
 <br />
 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/ahmedirfanp
 [instagram]: https://instagram.com/ahmedirfan.p/
 [linkedin]: https://linkedin.com/in/ahmedirfanp/
-[Alteryx_Community_Profile]:https://community.alteryx.com/t5/user/viewprofilepage/user-id/164099
+[Alteryx_Community_Profile]:https://www.credly.com/badges/a4b3e002-b63a-480b-b8cd-67acf67b2afd/public_url
 [GoodReads]: https://www.goodreads.com/user/show/5864857-ahmed-irfan-peermohamed
 [TableauPublic]: https://public.tableau.com/profile/ahmed.irfan.peermohamed#!/
 [Fav_Song]:https://www.youtube.com/watch?v=we-LaiQNY5s
