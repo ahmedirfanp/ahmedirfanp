@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Get the G2 Driving License 😄.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
-### Reading now 📖: [Predictably Irrational][Current_Book]
+### Reading now 📖: [Twenty Thousand Leagues Under the Sea][Current_Book]
 
 ### Certified in:
 [<span title="DesignerCore">
@@ -86,4 +86,4 @@ Here are some ideas to get you started:
 [TableauPublic]: https://public.tableau.com/profile/ahmed.irfan.peermohamed#!/
 [Fav_Song]:https://www.youtube.com/watch?v=we-LaiQNY5s
 [ETL]:https://en.wikipedia.org/wiki/Extract,_transform,_load
-[Current_book]:https://www.goodreads.com/book/show/1713426.Predictably_Irrational?ac=1&from_search=true&qid=a0bd8z1loN&rank=1
+[Current_book]:https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea?ac=1&from_search=true&qid=ie5hIR882N&rank=1
