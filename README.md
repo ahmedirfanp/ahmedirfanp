@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a software Engineer responsible for Data Integration. My current Employer is [Buck][Employer_Current], a century old Human Resource and [Actuarial][Actuary] firm.
 - 🌱 Slowly transitioning my career to Data Engineering.
 - 💬 Ask me about anything [ETL][ETL] related.
-- 🥅 2021 Goals:
-  - Get certification on one tool - Completed (Alteryx Designer Core Certified).
-  - Get the G2 Driving License 😄.
+- 🥅 2022 Goals:
+  - Career
+    -  Complete Alteryx Designer Advanced Certification.
+    -  
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
-### Reading now 📖: [Twenty Thousand Leagues Under the Sea][Current_Book]
+### Reading now 📖:
 
 ### Certified in:
 [<span title="DesignerCore">
