@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals:
   - Career
     -  Complete Alteryx Designer Advanced Certification.
-    -  
+    -  Enroll and Complete [Google IT Automation with Python Professional Certificate][Google_Certificate]
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
 ### Reading now 📖:
@@ -88,3 +88,4 @@ Here are some ideas to get you started:
 [Fav_Song]:https://www.youtube.com/watch?v=we-LaiQNY5s
 [ETL]:https://en.wikipedia.org/wiki/Extract,_transform,_load
 [Current_book]:https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea?ac=1&from_search=true&qid=ie5hIR882N&rank=1
+[Google_Certificate]:https://www.coursera.org/professional-certificates/google-it-automation?utm_source=recommendations&utm_medium=email&utm_campaign=8702&sfmc_id=14698700&sfmc_key=0031U00001QiQszQAF
