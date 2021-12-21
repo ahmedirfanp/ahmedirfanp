@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a software Engineer responsible for Data Integration. My current Employer is [Buck][Employer_Current], a century old Human Resource and [Actuarial][Actuary] firm.
+- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Bank][Employer_Current]'s Data Practice Area.
 - 🌱 Slowly transitioning my career to Data Engineering.
 - 💬 Ask me about anything [ETL][ETL] related.
 - 🥅 2022 Goals:
