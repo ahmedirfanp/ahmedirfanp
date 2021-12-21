@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a software Engineer responsible for Data Integration. My Current Employer is Buck a century old Human Resource and Actuarial firm.
+- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Bank][Employer_Current]'s Data Practice.
 - 🌱 Slowly transitioning my career to Data Engineer.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="ahmedirfanp | GoodReads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/goodreads.svg" />][GoodReads]
 [<img align="left" alt="ahmedirfanp | GoodReads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />][TableauPublic]
 
-[Employer_Current]:https://buck.com/ca/
+[Employer_Current]:https://www.td.com/ca/en/about-td/who-we-are/
 [Actuary]:https://en.wikipedia.org/wiki/Actuarial_science#:~:text=Actuarial%20science%20is%20the%20discipline,professionals%20trained%20in%20this%20discipline.
 [twitter]: https://twitter.com/ahmedirfanp
 [instagram]: https://instagram.com/ahmedirfan.p/
