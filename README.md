@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Bank][Employer_Current]'s Data Practice Area.
+- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Bank][Employer_Current]'s [Data Practice Area][Article].
 - 🌱 Slowly transitioning my career to Data Engineering.
 - 💬 Ask me about anything [ETL][ETL] related.
 - 🥅 2022 Goals:
@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 [Employer_Current]:https://www.td.com/ca/en/about-td/who-we-are/
 [Actuary]:https://en.wikipedia.org/wiki/Actuarial_science#:~:text=Actuarial%20science%20is%20the%20discipline,professionals%20trained%20in%20this%20discipline.
+[Article]:https://www.forbes.com/sites/ciocentral/2020/02/11/the-emergence-of-td-as-a-data-driven-force-in-banking/?sh=4365c41c7766
 [twitter]: https://twitter.com/ahmedirfanp
 [instagram]: https://instagram.com/ahmedirfan.p/
 [linkedin]: https://linkedin.com/in/ahmedirfanp/
