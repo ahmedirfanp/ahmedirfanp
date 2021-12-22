@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [ETL][ETL] related.
 - 🥅 2022 Goals:
   - Career
-    -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
+    -  <s>Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]</s>
     -  Enroll and Complete [Google IT Automation with Python Professional Certificate][Google_Certificate]
     -  Finish atleast 6 Data Engineering Projects through self learn.
   - Personal
