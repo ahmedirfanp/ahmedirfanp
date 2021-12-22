@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Bank][Employer_Current]'s Data Practice.
+- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Canada Trust][Employer_Current]'s Data Practice Area.
 - 🌱 Slowly transitioning my career to Data Engineer.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -13,13 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Bank][Employer_Current]'s [Data Practice Area][Article].
-- 🌱 Slowly transitioning my career to Data Engineering.
+- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Canada Trust][Employer_Current]'s [Data Practice Area][Article].
+- 🌱 Aspiring Data/Analytics Engineer.
 - 💬 Ask me about anything [ETL][ETL] related.
 - 🥅 2022 Goals:
   - Career
     -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
     -  Enroll and Complete [Google IT Automation with Python Professional Certificate][Google_Certificate]
+    -  Finish atleast 6 Data Engineering Projects through self learn.
+  - Personal
+    - Read a book a month.
+    - 
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
 ### Reading now 📖:
