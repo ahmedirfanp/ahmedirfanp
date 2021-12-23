@@ -20,10 +20,13 @@ Here are some ideas to get you started:
   - Career
     -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
     -  Enroll and Complete [Google IT Automation with Python Professional Certificate][Google_Certificate]
-    -  Finish atleast 6 Data Engineering Projects through self learn.
+    -  Complete atleast 3 Data Engineering Projects through self learn.
+    -  Complete atleast 3 Automation Projects using Python
   - Personal
     - Read a book a month.
-    - 
+    - Walk a Trail every week.
+    - Get G2 licence and get driving.
+    - Get M1 licence.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
 ### Reading now 📖:
