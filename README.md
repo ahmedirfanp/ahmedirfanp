@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Canada Trust][Employer_Current]'s [Data Practice Area][Article].
+- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Canada Trust][Employer_Current]'s [Data and Analytics Practice][Article].
 - 🌱 Aspiring Data/Analytics Engineer.
 - 💬 Ask me about anything [ETL][ETL] related.
 - 🥅 2022 Goals:
   - Career
     -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
     -  Enroll and Complete [Google IT Automation with Python Professional Certificate][Google_Certificate]
+    -  Complete Associate Certification on [Graphic Design and Illustration Using Adobe Illustrator][Adobe_Illustrator]
     -  Complete atleast 3 Data Engineering Projects through self learn.
     -  Complete atleast 3 Automation Projects using Python
   - Personal
@@ -98,3 +99,4 @@ Here are some ideas to get you started:
 [Current_book]:https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea?ac=1&from_search=true&qid=ie5hIR882N&rank=1
 [Google_Certificate]:https://www.coursera.org/professional-certificates/google-it-automation?utm_source=recommendations&utm_medium=email&utm_campaign=8702&sfmc_id=14698700&sfmc_key=0031U00001QiQszQAF
 [Alteryx_Certification]:https://community.alteryx.com/t5/Certification/bd-p/product-certification
+[Adobe_Illustrator]:Graphic Design and Illustration Using Adobe Illustrator
