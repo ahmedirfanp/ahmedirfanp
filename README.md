@@ -21,6 +21,7 @@ Here are some ideas to get you started:
     -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
     -  Enroll and Complete [Google IT Automation with Python Professional Certificate][Google_Certificate]
     -  Complete Associate Certification on [Graphic Design and Illustration Using Adobe Illustrator][Adobe_Illustrator]
+    -  Become a [Tableau Certified Data Analyst][Tableau_Certificate]
     -  Complete atleast 3 Data Engineering Projects through self learn.
     -  Complete atleast 3 Automation Projects using Python
   - Personal
@@ -100,3 +101,4 @@ Here are some ideas to get you started:
 [Google_Certificate]:https://www.coursera.org/professional-certificates/google-it-automation?utm_source=recommendations&utm_medium=email&utm_campaign=8702&sfmc_id=14698700&sfmc_key=0031U00001QiQszQAF
 [Alteryx_Certification]:https://community.alteryx.com/t5/Certification/bd-p/product-certification
 [Adobe_Illustrator]:https://edex.adobe.com/teaching-resources/50a8dd9f
+[Tableau_Certificate]:https://www.tableau.com/learn/certification/certified-data-analyst
