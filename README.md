@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     - Read a book a month.
     - Walk a Trail every week.
     - Get G2 licence and get driving.
-    - Get M1 licence.
+    - Learn Swimming.
 - ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
 ### Reading now 📖:
