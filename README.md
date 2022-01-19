@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 <span title="Airflow"><img align="left" alt="Airflow" width="36px" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" /></span>
 <span title="SPARK"><img align="left" alt="SPARK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
 <span title="PRESTO"><img align="left" alt="PRESTO" width="36px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mrkiqqv6u0a5qgxqfwjw" /></span>
+<span title="Data Build Tool"><img align="left" alt="Data Build Tool" width="36px" src="https://henriblancke.gallerycdn.vsassets.io/extensions/henriblancke/vscode-dbt-formatter/1.0.1/1586995554014/Microsoft.VisualStudio.Services.Icons.Default" /></span>
 <br />
 <br />
 
