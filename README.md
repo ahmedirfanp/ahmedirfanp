@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img align="left" alt="SQLSever" width="32px" src="https://image.pngaaa.com/580/3781580-middle.png" /></span>
 <span title="PLSQL">
   <img align="left" alt="PLSQL" width="32px" src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png" /></span>
-<span title="PentahoDataIntegration"><img align="left" alt="Pentaho" width="32px" src="https://dataengineerings.com/wp-content/uploads/2021/02/pentaho-logo-1.png?w=150" /></span>
+<span title="PentahoDataIntegration"><img align="left" alt="Pentaho" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7REBQs3u6kVeDbhyGr09xuFk6Wwoaa4H-K7GqsYk3c7r-GCCM3feoQwaFeH_JuHu8a_k&usqp=CAU" /></span>
 <span title="Informatica">
   <img align="left" alt="Informatica" width="32px" src="https://defkey.com/content/images/program/informatica-powercenter-10-5-workflow-2021-04-07_08-36-25-icon-resized.png" /></span>
 <span title="ShellScript">
