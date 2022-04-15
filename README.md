@@ -21,8 +21,6 @@ Here are some ideas to get you started:
     -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
     -  Complete [Data Engineering on Microsoft Azure][Azure_DP203]
     -  Become a [Tableau Certified Data Analyst][Tableau_Certificate]
-    -  Complete atleast 3 Data Engineering Projects through self learn.
-    -  Complete atleast 3 Automation Projects using Python
   - Personal
     - Read a book a month.
     - Walk a Trail every week.
