@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals:
   - Career
     -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
-    -  Become an [Oracle Database SQL Certified Associate][Oracle_Certification]
-    -  Enroll and Complete [Google IT Automation with Python Professional Certificate][Google_Certificate]
-    -  Complete Associate Certification on [Graphic Design and Illustration Using Adobe Illustrator][Adobe_Illustrator]
+    -  Complete [Data Engineering on Microsoft Azure][Azure_DP203]
     -  Become a [Tableau Certified Data Analyst][Tableau_Certificate]
     -  Complete atleast 3 Data Engineering Projects through self learn.
     -  Complete atleast 3 Automation Projects using Python
@@ -106,3 +104,4 @@ Here are some ideas to get you started:
 [Adobe_Illustrator]:https://edex.adobe.com/teaching-resources/50a8dd9f
 [Tableau_Certificate]:https://www.tableau.com/learn/certification/certified-data-analyst
 [Oracle_Certification]:https://education.oracle.com/oracle-database-sql/pexam_1Z0-071
+[Azure_DP203]:https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203
