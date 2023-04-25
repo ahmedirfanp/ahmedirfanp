@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Canada Trust][Employer_Current]'s [Data and Analytics Practice][Article].
 - 🌱 Aspiring Data/Analytics Engineer.
 - 💬 Ask me about anything [ETL][ETL] related.
-- 🥅 2022 Goals:
+- 🥅 2023 Goals:
   - Career
     -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
     -  Complete [Data Engineering on Microsoft Azure][Azure_DP203]
