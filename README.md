@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [<span title="DesignerCore">
   <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://images.credly.com/size/110x110/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" /></span>][Alteryx_Community_Profile]
 [<span title="Azure Fundamentals">
-  <img align="left" alt="Azure Fundamentals" width="48px" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" /></span>][Alteryx_Community_Profile]
+  <img align="left" alt="Azure Fundamentals" width="48px" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" /></span>][Azure AZ-900 Validation]
 <br />
 <br />
 
@@ -105,3 +105,4 @@ Here are some ideas to get you started:
 [Tableau_Certificate]:https://www.tableau.com/learn/certification/certified-data-analyst
 [Oracle_Certification]:https://education.oracle.com/oracle-database-sql/pexam_1Z0-071
 [Azure_DP203]:https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203
+[Azure AZ-900 Validation]:https://www.credly.com/badges/b9bfb8d1-77ae-40b1-9c29-76a11e953e54/public_url
