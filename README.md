@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### Certified in:
 [<span title="DesignerCore">
   <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://images.credly.com/size/110x110/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" /></span>][Alteryx_Community_Profile]
+[<span title="Azure Fundamentals">
+  <img align="left" alt="Azure Fundamentals" width="48px" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" /></span>][Alteryx_Community_Profile]
 <br />
 <br />
 
