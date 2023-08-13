@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <span title="SPARK">
   <img align="left" alt="SPARK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
 <span title="DataBricks">
-  <img align="left" alt="Databricks" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
+  <img align="left" alt="Databricks" width="36px" src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" /></span>
 <br />
 <br />
 
