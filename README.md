@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <span title="Tableau">
   <img align="left" alt="tableau" width="32px" src="https://www.pngjoy.com/pngl/142/2853977_primerica-logo-tableau-software-hd-png-download.png" /></span>
 <span title="PowerBI">
-  <img align="left" alt="PowerBi" width="32px" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-500x281.png" /></span>
+  <img align="left" alt="PowerBi" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" /></span>
 <span title="MSOffice">
   <img align="left" alt="MSOffice" width="32px" src="https://icon-library.com/images/microsoft-office-icon-png/microsoft-office-icon-png-12.jpg" /></span>
  <span title="Alteryx">
