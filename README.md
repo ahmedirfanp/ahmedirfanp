@@ -50,11 +50,12 @@ Here are some ideas to get you started:
   <img align="left" alt="MSOffice" width="32px" src="https://icon-library.com/images/microsoft-office-icon-png/microsoft-office-icon-png-12.jpg" /></span>
  <span title="Alteryx">
   <img align="left" alt="Alteryx" width="26px" src="https://w7.pngwing.com/pngs/194/912/png-transparent-tableau-software-computer-icons-alteryx-over-and-over-again-blue-angle-text-thumbnail.png" /></span>
+<span title="Python">
+  <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" /></span>
 <br />
 <br />
 
 ### Languages and Tools with Basic Knowledge:
-<span title="Python"><img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" /></span>
 <span title="Java"><img align="left" alt="Java" width="32px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" /></span>
 <span title="MongoDB"><img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></span>
 <span title="Airflow"><img align="left" alt="Airflow" width="36px" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" /></span>
