@@ -16,18 +16,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Canada Trust][Employer_Current]'s [Data and Analytics Practice][Article].
 - 🌱 Aspiring Data/Analytics Engineer.
 - 💬 Ask me about anything [ETL][ETL] related.
-- 🥅 2023 Goals:
-  - Career
-    -  Complete [Alteryx Designer Advanced Certification][Alteryx_Certification]
-    -  Complete [Data Engineering on Microsoft Azure][Azure_DP203]
-    -  Become a [Tableau Certified Data Analyst][Tableau_Certificate]
-  - Personal
-    - Read a book a month.
-    - Walk a Trail every week.
-    - Get G2 licence and get driving.
-    - Learn to Skate(ice).
-    - Learn Swimming.
-- ⚡ Fun fact: Love to try new foods and visit new places, Fan of [Coldplay][Fav_Song] and Star Trek.
 
 ### Reading now 📖:
 
