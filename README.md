@@ -68,11 +68,12 @@ Here are some ideas to get you started:
 <span title="MongoDB"><img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></span>
 <span title="Airflow"><img align="left" alt="Airflow" width="36px" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" /></span>
 <span title="Data Build Tool"><img align="left" alt="Data Build Tool" width="36px" src="https://henriblancke.gallerycdn.vsassets.io/extensions/henriblancke/vscode-dbt-formatter/1.0.1/1586995554014/Microsoft.VisualStudio.Services.Icons.Default" /></span>
+<span title="Java Script"><img align="left" alt="Data Build Tool" width="36px" src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" /></span>
 <br />
 <br />
 
 ### Currently Learning:
-<span title="Data Build Tool"><img align="left" alt="Data Build Tool" width="36px" src="https://henriblancke.gallerycdn.vsassets.io/extensions/henriblancke/vscode-dbt-formatter/1.0.1/1586995554014/Microsoft.VisualStudio.Services.Icons.Default" /></span>
+<span title="React Native"><img align="left" alt="React Native" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /></span>
 <br />
 <br />
 
