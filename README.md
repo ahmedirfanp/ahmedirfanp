@@ -52,6 +52,12 @@ Here are some ideas to get you started:
   <img align="left" alt="Alteryx" width="26px" src="https://w7.pngwing.com/pngs/194/912/png-transparent-tableau-software-computer-icons-alteryx-over-and-over-again-blue-angle-text-thumbnail.png" /></span>
 <span title="Python">
   <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" /></span>
+<span title="Azure">
+  <img align="left" alt="Azure" width="36px" src="https://swimburger.net/media/ppnn3pcl/azure.png" /></span>
+<span title="SPARK">
+  <img align="left" alt="SPARK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
+<span title="DataBricks">
+  <img align="left" alt="Databricks" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
 <br />
 <br />
 
@@ -59,12 +65,11 @@ Here are some ideas to get you started:
 <span title="Java"><img align="left" alt="Java" width="32px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" /></span>
 <span title="MongoDB"><img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></span>
 <span title="Airflow"><img align="left" alt="Airflow" width="36px" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" /></span>
+<span title="Data Build Tool"><img align="left" alt="Data Build Tool" width="36px" src="https://henriblancke.gallerycdn.vsassets.io/extensions/henriblancke/vscode-dbt-formatter/1.0.1/1586995554014/Microsoft.VisualStudio.Services.Icons.Default" /></span>
 <br />
 <br />
 
 ### Currently Learning:
-<span title="SPARK"><img align="left" alt="SPARK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
-<span title="Azure"><img align="left" alt="Azure" width="36px" src="https://swimburger.net/media/ppnn3pcl/azure.png" /></span>
 <span title="Data Build Tool"><img align="left" alt="Data Build Tool" width="36px" src="https://henriblancke.gallerycdn.vsassets.io/extensions/henriblancke/vscode-dbt-formatter/1.0.1/1586995554014/Microsoft.VisualStudio.Services.Icons.Default" /></span>
 <br />
 <br />
