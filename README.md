@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Currently Learning:
-<span title="React Native"><img align="left" alt="React Native" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /></span>
+<span title="Flutter"><img align="left" alt="React Native" width="36px" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" /></span>
 <br />
 <br />
 
