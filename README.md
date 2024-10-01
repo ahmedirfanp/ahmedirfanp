@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <span title="Git">
   <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></span>
 <span title="Tableau">
-  <img align="left" alt="tableau" width="32px" src="https://www.pngjoy.com/pngl/142/2853977_primerica-logo-tableau-software-hd-png-download.png" /></span>
+  <img align="left" alt="tableau" width="32px" src="https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png" /></span>
 <span title="PowerBI">
   <img align="left" alt="PowerBi" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" /></span>
 <span title="MSOffice">
