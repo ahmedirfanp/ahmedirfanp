@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ### Currently Learning:
 <span title="Flutter"><img align="left" alt="React Native" width="36px" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" /></span>
+<span title="Fabric"><img align="left" alt="Fabric" width="36px" src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" /></span>
 <br />
 <br />
 
