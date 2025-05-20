@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as a LLevel 9 Data Engineer at [TD Canada Trust][Employer_Current]'s [Data and Analytics Practice][Article].
-- 🌱 Aspiring Data/Analytics Engineer.
 - 💬 Ask me about anything [ETL][ETL] related.
 
 ### Reading now 📖:
