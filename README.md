@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Canada Trust][Employer_Current]'s Data Practice Area.
-- 🌱 Slowly transitioning my career to Data Engineer.
+- 🔭 I’m currently working as a LLevel 9 Data Engineer at [TD Canada Trust][Employer_Current]'s Data Practice Area.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -19,64 +18,6 @@ Here are some ideas to get you started:
 
 ### Reading now 📖:
 
-### Certified in:
-[<span title="DesignerCore">
-  <img align="left" alt="AlteryxDesignerCore" width="48px" src="https://images.credly.com/size/110x110/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" /></span>][Alteryx_Community_Profile]
-[<span title="Azure Fundamentals">
-  <img align="left" alt="Azure Fundamentals" width="48px" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" /></span>][Azure AZ-900 Validation]
-<br />
-<br />
-
-
-### Languages and Tools with Good Experience:
-<span title="SQL">
-  <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></span>
-<span title="MySQL">
-  <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></span>
-<span title="SQLServer">
-  <img align="left" alt="SQLSever" width="32px" src="https://image.pngaaa.com/580/3781580-middle.png" /></span>
-<span title="PLSQL">
-  <img align="left" alt="PLSQL" width="32px" src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png" /></span>
-<span title="PentahoDataIntegration"><img align="left" alt="Pentaho" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7REBQs3u6kVeDbhyGr09xuFk6Wwoaa4H-K7GqsYk3c7r-GCCM3feoQwaFeH_JuHu8a_k&usqp=CAU" /></span>
-<span title="Informatica">
-  <img align="left" alt="Informatica" width="32px" src="https://defkey.com/content/images/program/informatica-powercenter-10-5-workflow-2021-04-07_08-36-25-icon-resized.png" /></span>
-<span title="ShellScript">
-  <img align="left" alt="ShellScript" width="32px" src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal_application-512.png" /></Span>
-<span title="Git">
-  <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></span>
-<span title="Tableau">
-  <img align="left" alt="tableau" width="32px" src="https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png" /></span>
-<span title="PowerBI">
-  <img align="left" alt="PowerBi" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" /></span>
-<span title="MSOffice">
-  <img align="left" alt="MSOffice" width="32px" src="https://icon-library.com/images/microsoft-office-icon-png/microsoft-office-icon-png-12.jpg" /></span>
- <span title="Alteryx">
-  <img align="left" alt="Alteryx" width="26px" src="https://w7.pngwing.com/pngs/194/912/png-transparent-tableau-software-computer-icons-alteryx-over-and-over-again-blue-angle-text-thumbnail.png" /></span>
-<span title="Python">
-  <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" /></span>
-<span title="Azure">
-  <img align="left" alt="Azure" width="36px" src="https://swimburger.net/media/ppnn3pcl/azure.png" /></span>
-<span title="SPARK">
-  <img align="left" alt="SPARK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" /></span>
-<span title="DataBricks">
-  <img align="left" alt="Databricks" width="36px" src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" /></span>
-<br />
-<br />
-
-### Languages and Tools with Basic Knowledge:
-<span title="Java"><img align="left" alt="Java" width="32px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" /></span>
-<span title="MongoDB"><img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></span>
-<span title="Airflow"><img align="left" alt="Airflow" width="36px" src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" /></span>
-<span title="Data Build Tool"><img align="left" alt="Data Build Tool" width="36px" src="https://henriblancke.gallerycdn.vsassets.io/extensions/henriblancke/vscode-dbt-formatter/1.0.1/1586995554014/Microsoft.VisualStudio.Services.Icons.Default" /></span>
-<span title="Java Script"><img align="left" alt="Data Build Tool" width="36px" src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" /></span>
-<br />
-<br />
-
-### Currently Learning:
-<span title="Flutter"><img align="left" alt="React Native" width="36px" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" /></span>
-<span title="Fabric"><img align="left" alt="Fabric" width="36px" src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" /></span>
-<br />
-<br />
 
 ### Connect with me:
 [<img align="left" alt="ahmedirfanp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
