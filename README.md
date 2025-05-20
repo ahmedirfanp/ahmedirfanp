@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Sr. Business Information Management Analyst at [TD Canada Trust][Employer_Current]'s [Data and Analytics Practice][Article].
+- 🔭 I’m currently working as a LLevel 9 Data Engineer at [TD Canada Trust][Employer_Current]'s [Data and Analytics Practice][Article].
 - 🌱 Aspiring Data/Analytics Engineer.
 - 💬 Ask me about anything [ETL][ETL] related.
 
